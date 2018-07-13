@@ -1,5 +1,5 @@
 # litecoin
-docker images of go base on centos7
+docker images of litecoin base on centos7
 
 ## Supported Tags
 latest
