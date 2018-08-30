@@ -5,7 +5,7 @@ docker images of mariadb base on centos7
 latest
 
 ## What's in this image?
-This image contains the version 10.1.21 of mariadb
+This image contains the version 10.3.9 of mariadb
 
 ## Usage
 docker run -d -p 3306:3306 -v /data/mariadb:/data/env/mariadb --name mariadb mariadb
