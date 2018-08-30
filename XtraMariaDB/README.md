@@ -5,7 +5,7 @@ docker images of xtrabackup & mariadb base on greatbsky/crontab image.
 latest
 
 ## What's in this image?
-This image contains the version 10.1.21 of mariadb, the version 2.4.6 of xtrabackup
+This image contains the version 10.3.9 of mariadb, the version 2.4.6 of xtrabackup
 
 ## Usage
 
