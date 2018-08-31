@@ -1,13 +1,13 @@
-# litecoin
-docker images of litecoin base on centos7
+# bitcoin
+docker images of bitcoin base on xtraos:latest
 
 ## Supported Tags
 latest
-v0.16.0
+v0.16.2
 
 
 ## What's in this image?
-This image contains the version 0.16.0 of litecoin
+This image contains the version 0.16.2 of bitcoin
 
 
 ## Supported Docker Versions
