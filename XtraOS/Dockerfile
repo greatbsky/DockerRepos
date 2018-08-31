@@ -1,8 +1,8 @@
 FROM centos
 MAINTAINER architect.bian
-LABEL name="xtraos" license="MIT" build-date="20170119"
+LABEL name="xtraos" license="MIT" build-date="20180831"
 
-ENV VERSION 1.4.0
+ENV VERSION 20180831
 ENV OPENSSL_VERSION OpenSSL_1_1_0g
 ENV ZLIB_VERSION 1.2.11
 
