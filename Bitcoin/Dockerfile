@@ -1,4 +1,4 @@
-FROM greatbsky/centos7:latest
+FROM greatbsky/xtraos:latest
 MAINTAINER architect.bian
 LABEL name="bitcoin" license="MIT" build-date="20180831"
 
