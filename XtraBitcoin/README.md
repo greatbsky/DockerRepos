@@ -1,4 +1,4 @@
-# bitcoin
+# XtraBitcoin
 docker images of bitcoin base on xtraos:latest
 
 ## Supported Tags
