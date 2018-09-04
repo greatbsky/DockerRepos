@@ -3,11 +3,11 @@ docker images of bitcoincash base on xtraos:latest
 
 ## Supported Tags
 latest
-v0.16.2
+v0.18.1
 
 
 ## What's in this image?
-This image contains the version 0.16.2 of bitcoin
+This image contains the version 0.18.1 of bitcoincash
 
 
 ## Supported Docker Versions
