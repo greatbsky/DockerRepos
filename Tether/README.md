@@ -1,5 +1,5 @@
 # Tether
-docker images of tether(usdt) base on xtraos:latest
+docker images of tether(usdt) base on centos7:latest
 
 ## Supported Tags
 latest
