@@ -1,6 +1,6 @@
 FROM greatbsky/xtraos:latest
 MAINTAINER architect.bian
-LABEL name="bitcoin" license="MIT" build-date="20180904"
+LABEL name="bitcoincash" license="MIT" build-date="20180904"
 
 ENV VERSION 0.18.1
 
