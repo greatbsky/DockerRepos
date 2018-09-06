@@ -1,9 +1,9 @@
-# XtraBitcoin
-docker images of bitcoin base on xtraos:latest
+# XtraLitecoin
+docker images of litecoin base on xtraos:latest
 
 ## Supported Tags
 latest
-v0.16.2
+v0.16.0
 
 
 ## What's in this image?
