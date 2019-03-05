@@ -1,5 +1,5 @@
 # CentOS7
-docker images of centos7.4
+docker images of centos7.6
 
 ## Supported Tags
 latest (https://github.com/greatbsky/DockerRepos/blob/master/CentOS7/Dockerfile)
