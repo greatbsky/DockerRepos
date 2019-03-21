@@ -1,8 +1,8 @@
 FROM greatbsky/centos7:latest
 MAINTAINER architect.bian
-LABEL name="openjdk" license="MIT" build-date="20180119"
+LABEL name="openjdk" license="MIT" build-date="20190321"
 
-ENV VERSION 1.8.0_161
+ENV VERSION 1.8.0_201
 ENV JAVA_HOME=/usr
 
 RUN yum update -y && cd /data/softs && yum install -y java
