@@ -1,4 +1,4 @@
-FROM greatbsky/openjdk:latest
+FROM greatbsky/centos7:latest
 MAINTAINER architect.bian
 LABEL name="kibana" license="MIT" build-date="20190324"
 

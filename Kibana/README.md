@@ -1,5 +1,5 @@
 # kibana
-docker images of kibana base on openjdk
+docker images of kibana base on centos7
 
 ## Supported Tags
 latest
