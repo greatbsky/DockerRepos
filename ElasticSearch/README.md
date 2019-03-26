@@ -5,7 +5,7 @@ docker images of elasticsearch base on openjdk
 latest
 
 ## What's in this image?
-This image contains the version 6.6.2 of elasticsearch
+This image contains the version 5.6.16 of elasticsearch
 
 
 ## Supported Docker Versions
