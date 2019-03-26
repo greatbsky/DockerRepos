@@ -8,4 +8,4 @@ RUN cd /data/softs && wget https://artifacts.elastic.co/downloads/beats/filebeat
 
 WORKDIR /data/env/elastic/filebeat
 
-CMD ["bin/filebeat"]
+CMD ["./filebeat"]
