@@ -1,11 +1,11 @@
-# elasticsearch
-docker images of elasticsearch base on openjdk
+# filebeat
+docker images of filebeat base on centos7
 
 ## Supported Tags
 latest
 
 ## What's in this image?
-This image contains the version 5.6.16 of elasticsearch
+This image contains the version 6.6.2 of filebeat
 
 
 ## Supported Docker Versions
