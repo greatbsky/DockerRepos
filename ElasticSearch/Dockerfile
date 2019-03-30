@@ -1,8 +1,8 @@
 FROM greatbsky/openjdk:latest
 MAINTAINER architect.bian
-LABEL name="elasticsearch" license="MIT" build-date="20190326"
+LABEL name="elasticsearch" license="MIT" build-date="20190330"
 
-ENV VERSION 6.6.2
+ENV VERSION 6.7.0
 ENV USER elastic
 ENV GROUP elastic
 
