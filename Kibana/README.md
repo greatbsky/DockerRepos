@@ -5,7 +5,7 @@ docker images of kibana base on centos7
 latest
 
 ## What's in this image?
-This image contains the version 6.7.0 of kibana
+This image contains the version 6.5.4 of kibana
 
 
 ## Supported Docker Versions
