@@ -2,7 +2,7 @@ FROM greatbsky/centos7
 MAINTAINER architect.bian
 LABEL name="mongodb" license="MIT" build-date="20190407"
 
-ENV MONGODB_VERSION 3.6.12
+ENV MONGODB_VERSION 4.0.8
 
 RUN yum clean all && yum update -y
 
